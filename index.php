@@ -17,5 +17,20 @@
 </head>
 <body>
 
+<div>
+    <div class="card d-flex m-1" style="width: 18rem;">
+        <div class="card-header">
+            Indkøbsliste
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Smør</li>
+            <li class="list-group-item">Sodavand</li>
+            <li class="list-group-item">Hakket Oksekød</li>
+            <li class="list-group-item">Nudler</li>
+            <li class="list-group-item">Frysepizza</li>
+        </ul>
+    </div>
+</div>
+
 </body>
 </html>
