@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Sigende titel</title>
+    <title>Opgave 1</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
@@ -13,12 +13,12 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body>
+<body class="bg-primary">
 
-<div>
+<div class="d-flex justify-content-center">
     <div class="card d-flex m-1" style="width: 18rem;">
-        <div class="card-header">
-            Indkøbsliste
+        <div class="card-header fw-bold">
+            Indkøbsliste:
         </div>
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Smør</li>
